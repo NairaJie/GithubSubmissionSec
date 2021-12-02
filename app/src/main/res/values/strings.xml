@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GithubSubmissionSec</string>
+    <string name="txt_name">Name</string>
+    <string name="txt_type">type</string>
+    <string name="txt_search">Search here</string>
+    <string name="txt_error_image">Error Image</string>
+    <string name="txt_followers">Followers</string>
+    <string name="txt_following">Following</string>
+    <string name="error_image">Error Image</string>
+</resources>
